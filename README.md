@@ -1,4 +1,4 @@
-# Hi there 👋, Sunita here. 
+# Hi there 👋, I'm Sunita. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sunita778.repoName) [![GitHub followers](https://img.shields.io/github/followers/Sunita778.svg?style=social&label=Follow)](https://github.com/Sunita778?tab=followers)<br/>
 
 <!--
@@ -10,9 +10,9 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I completed my graduation in BSc Physics and right now I'm learning data science. I'm good at python programming language. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Data Science**
+* **I'm interested in Data Science Field**
 - 🌱 I’m currently learning ...
-  - Deep Learning
+  - Machine Learning & Deep Learning
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, I love to 
@@ -49,9 +49,9 @@ I completed my graduation in BSc Physics and right now I'm learning data science
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunita778" alt="GitHub Stats" /> <br/><br/>
   
+    
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Sunita778&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunita778&layout=compact)
-
 ---------------------------------------------------------------------------------------------------------------------
