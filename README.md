@@ -55,7 +55,7 @@ Here are my few projects:
       <a href="sunitapradhan778@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Email" height="30"/></a>
-      <a href="https://www.linkedin.com/in/sunita85/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/sunita778/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn" height="30"/></a>
       <a href="https://www.kaggle.com/sunita778" target="blank"><img align="center"
