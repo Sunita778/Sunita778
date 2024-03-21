@@ -52,9 +52,6 @@ Here are my few projects:
     <h2 align="center">😎 you can also reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="sunitapradhan778@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email" height="30"/></a>
       <a href="https://www.linkedin.com/in/sunita778/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn" height="30"/></a>
