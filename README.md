@@ -45,26 +45,3 @@ Here are my few projects:
 
 
 
-
-
-<div>
-  <samp>
-    <h2 align="center">😎 you can also reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/sunita778/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" height="30"/></a>
-      <a href="https://www.kaggle.com/sunita778" target="blank"><img align="center"
-         src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"
-         alt="Kaggle" height="30"/></a>
-      <a href="https://www.hackerrank.com/profile/Sunita778" target="blank"><img align="center"
-         src="https://img.shields.io/badge/hackerrank-%2323BEFF.svg?style=for-the-badge&logo=hackerrank&logoColor=white"
-         alt="HackerRank" height="30"/></a>
-      <a href="https://leetcode.com/Sunita778/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"
-         alt="LeetCode" height="30"/></a>
-    </p>
-  </samp>
-</div>
-</details>
